@@ -20,9 +20,6 @@ I am a Computer Engineering student at Don Bosco Institute of Technology (DBIT).
 - 🤖 Exploring **Machine Learning** integrations in web applications.
 - 🌐 Looking to learn **JavaScript** and front-end frameworks soon.
 
-### 📊 GitHub Stats
-![Isa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaqureshi14&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaqureshi14&layout=compact&theme=radical)
 
 ---
 
